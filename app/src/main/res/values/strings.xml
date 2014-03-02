@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">D5B Client</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="scan">Scan</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
